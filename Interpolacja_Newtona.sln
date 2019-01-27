@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Interpolacja_Newtona", "Interpolacja_Newtona\Interpolacja_Newtona.vcxproj", "{EB20AB6D-F452-412D-87E0-2315F3CDA3DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB20AB6D-F452-412D-87E0-2315F3CDA3DA}.Debug|x64.ActiveCfg = Debug|x64
+		{EB20AB6D-F452-412D-87E0-2315F3CDA3DA}.Debug|x64.Build.0 = Debug|x64
+		{EB20AB6D-F452-412D-87E0-2315F3CDA3DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB20AB6D-F452-412D-87E0-2315F3CDA3DA}.Debug|x86.Build.0 = Debug|Win32
+		{EB20AB6D-F452-412D-87E0-2315F3CDA3DA}.Release|x64.ActiveCfg = Release|x64
+		{EB20AB6D-F452-412D-87E0-2315F3CDA3DA}.Release|x64.Build.0 = Release|x64
+		{EB20AB6D-F452-412D-87E0-2315F3CDA3DA}.Release|x86.ActiveCfg = Release|Win32
+		{EB20AB6D-F452-412D-87E0-2315F3CDA3DA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F2EF1B-5C23-4FC6-A5FC-F9D87EAE6DE6}
+	EndGlobalSection
+EndGlobal
